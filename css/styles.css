@@ -73,8 +73,16 @@ footer {
     width: 100%; 
   }
 
+  .form-mail label {
+    display: block;
+  }
+
   .form-mail input[type=email] {
-    margin: 0px 15px;
+    margin: 0px 6px;
+  }
+
+  .form-mail input[type=submit] {
+    margin-right: 6px;
   }
 
   .social-media-container {
